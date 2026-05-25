@@ -1,0 +1,7 @@
+[package]
+name = "integro_diff_gui"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.27" # GUIフレームワーク (2026年現在の安定版)
